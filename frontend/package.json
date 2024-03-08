@@ -60,7 +60,7 @@
     "@mui/x-data-grid": "^6.16.2",
     "@mui/x-date-pickers": "^6.16.2",
     "@nivo/core": "^0.83.0",
-    "@nivo/line": "^0.83.0",
+    "@nivo/line": "^0.85.0",
     "base-ex": "^0.8.1",
     "country-flag-icons": "^1.5.7",
     "date-fns": "^2.30.0",
